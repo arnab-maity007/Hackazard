@@ -1,72 +1,125 @@
-# Welcome to a collaborative platform for NGOs
+![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-## Project info
+# 🚀 Project Title
 
-**URL**: https://lovable.dev/projects/ae8f1c82-5a7b-484e-98c0-c0efde5df0db
+Trustchain
 
-## How can I edit this code?
+## 📌 Problem Statement
 
-There are several ways of editing your application.
+Problem statement 1: Weave AI magic with Groq
 
-**Use Lovable**
+## 🎯 Objective
+This problem statement asks you to design a simple digital platform that helps small and medium nonprofit organizations manage their fundraising activities, engage with their communities and volunteers, and maintain transparency in all their operations. The goal is to make it easy for nonprofit teams to use, even if they’re not very tech-savvy. Your solution should clearly show how money is raised and used, offer secure and verifiable tracking of donations, and include features that help attract and retain community involvement.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ae8f1c82-5a7b-484e-98c0-c0efde5df0db) and start prompting.
+## 🧠 Team & Approach
 
-Changes made via Lovable will be committed automatically to this repo.
+### Team Name:  
+Four Musketeers
+### Team Members:  
+- Name 1 Arnab Maity(Arnab-maity007: github profile https://github.com/arnab-maity007)
+- Name 2 Sahil mishra (mishraji55 :github profile)
+- Name 3 Hrishita Joshi (rish15 :github profile)
+- Name 4 Vaishnavi Trivedi (vixen2006 : github profile)
+(Add links if you want)
 
-**Use your preferred IDE**
+### Your Approach:  
+- Why you chose this problem  
+Fake NGO donations are a significant problem where individuals are misled into giving money to organizations that don't actually exist or that misuse donations, often for personal gain. This issue undermines genuine charities, reduces the resources available for those in need, and erodes public trust in the non-profit sectors.
+- Key challenges you addressed  
+1 To tackle fake NGO donations, it's crucial to verify the organization's legitimacy before donating, report suspected scams, and protect yourself financially
+2 Providing a safer medium to the people who really want to helps those in need ,supports important causes and foster positive personal and community outcomes.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠 Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Core Technologies Used:
+- Frontend:React.js or flutter
+- Backend:Node.js with Express/Firebase for faster setup
+- Database:MangoDB/PostgreSQL
+- APIs:groq API
+- Hosting:vercel
 
-Follow these steps:
+### Sponsor Technologies Used (if any):
+- [ ] *Groq:* How you used Groq  
+- [ ] *Monad:* Your blockchain implementation  
+- [ ] *Fluvio:* Real-time data handling  
+- [ ] *Base:* AgentKit / OnchainKit / Smart Wallet usage  
+- [ ] *Screenpipe:* Screen-based analytics or workflows  
+- [ ] *Stellar:* Payments, identity, or token usage
+(Mark with ✅ if completed)
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## ✨ Key Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Highlight the most important features of your project:
 
-# Step 3: Install the necessary dependencies.
-npm i
+- ✅ Feature 1  Our websites enables the user to create their account with secured two step verification for controlled access to sensitive information ,personalised content and features while also enabling tracking of user activity and data
+- ✅ Feature 2  WE provide a wide range of donation options which is not only limited to orphans and underprivileged but also extend to wildlife , research , army as well as education sector. Users have the option to donate money as well as other items like clothes , books and even volunteer to teach children by visiting the NGOs.
+- ✅ Feature 3  Our websites gives the option to the users to either donate through our platform or visit the authorized NGOs to either donate or volunteer for different kind of social work
+- ✅ Feature 4  Our website provides safest blockchain based payment system where you can track your money transactions and even see how and where your donation is being used by the NGO.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+
+## 📽 Demo & Deliverables
+
+- *Demo Video Link:* [Paste YouTube or Loom link here]  
+- *Pitch Deck / PPT Link:* https://www.canva.com/design/DAGlYwpJaQ4/7G4TdaVK5-quKSDIGZx4LA/edit?utm_content=DAGlYwpJaQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+---
+
+## ✅ Tasks & Bonus Checklist
+
+- [ ] *All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form* (Details in Participant Manual)  
+- [ ] *All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)*  (Details in Participant Manual)
+- [ ] *All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)*  (Details in Participant Manual)
+
+(Mark with ✅ if completed)
+
+---
+
+## 🧪 How to Run the Project
+
+### Requirements:
+- Node.js / Python / Docker / etc.
+- API Keys (if any)
+- .env file setup (if needed)
+
+### Local Setup:
+bash
+# Clone the repo
+https://github.com/arnab-maity007/Hackazard
+# Install dependencies
+cd project-name
+npm install
+
+# Start development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Provide any backend/frontend split or environment setup notes here.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🧬 Future Scope
 
-## What technologies are used for this project?
+List improvements, extensions, or follow-up features:
 
-This project is built with:
+- 📈 More integrations  
+- 🛡 Security enhancements  
+- 🌐 Localization / broader accessibility  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📎 Resources / Credits
 
-Simply open [Lovable](https://lovable.dev/projects/ae8f1c82-5a7b-484e-98c0-c0efde5df0db) and click on Share -> Publish.
+- APIs or datasets used  
+- Open source libraries or tools referenced  
+- Acknowledgements  :chat gpt and my fellow team mates
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes it is!
+## 🏁 Final Words
+
+Joined a hackathon with an amazing team, where we brainstormed, built a prototype, and pitched our idea within tight deadlines. Faced challenges, learned a lot, and had a great time collaborating and problem-solving. It was an intense but rewarding experience!
+---
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
